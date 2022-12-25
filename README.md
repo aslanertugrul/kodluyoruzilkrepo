@@ -1,2 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+### kodluyoruzilkrepo
+## Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+# Ertuğrul Aslan Aralık 2022
